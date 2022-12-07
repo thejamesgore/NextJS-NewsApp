@@ -1,10 +1,15 @@
 import '../styles/globals.css'
+import fetchNews from '../lib/fetchNews'
 
-import React from 'react'
 
-function page() {
+async function page() {
+
+    // const news: NewsResponse = await fetchNews(categories.join(','))
+
   return (
-    <div>page</div>
+    <div>
+
+    </div>
   )
 }
 

@@ -1,6 +1,8 @@
 # NextJS 13 News App
 
-TypeScript
-StepZen
-TailWind CSs
-GraphQL
+News app created using.
+
+- TypeScript
+- TailWind Css
+- StepZen
+- GraphQL

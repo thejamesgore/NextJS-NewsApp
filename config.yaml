@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_af4adc0e5c: gleneagle::stepzen.net+1000::355350ac41f23bc5e7429a151afd90fb054f63d132fc95ebe9115fc33a56c770
